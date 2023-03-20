@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=adi-wav&linkedin=adi-wav&twitter=inin&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=somya-kumari&linkedin=somya-charanpahadi-7512511ba&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
 
 </h1>
 
